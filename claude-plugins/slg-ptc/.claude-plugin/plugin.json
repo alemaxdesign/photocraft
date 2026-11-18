@@ -1,0 +1,9 @@
+{
+  "name": "slg-ptc",
+  "description": "Personal PhotoCraft skills for slg982009. Each skill is invoked as /slg-ptc:<name>.",
+  "author": {
+    "name": "slg982009"
+  },
+  "license": "MIT",
+  "version": "0.2.0"
+}
